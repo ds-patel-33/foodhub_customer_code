@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1053058986056",
+    "project_id": "foodhub-be33f",
+    "storage_bucket": "foodhub-be33f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053058986056:android:1b6d12a2a06f9c18d7a87d",
+        "android_client_info": {
+          "package_name": "com.example.foodhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053058986056-2dtailmlvoju49v9ck79b0phdh3f2urf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf7OWpjrDM01TnTafrNbfe0iUOnxkcR_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053058986056-2dtailmlvoju49v9ck79b0phdh3f2urf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053058986056:android:95664dc60c04228dd7a87d",
+        "android_client_info": {
+          "package_name": "com.example.foodhub_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053058986056-2dtailmlvoju49v9ck79b0phdh3f2urf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf7OWpjrDM01TnTafrNbfe0iUOnxkcR_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053058986056-2dtailmlvoju49v9ck79b0phdh3f2urf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
